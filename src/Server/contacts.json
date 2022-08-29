@@ -1,0 +1,31 @@
+[
+    {
+        "icon":"fa-brands fa-facebook-f",
+        "name":"Facebook",
+        "href":"https://www.facebook.com/monsterhuynh.nam.7/"
+    },
+
+    {
+        "icon":"fa-brands fa-facebook-messenger",
+        "name":"Messenger",
+        "href":"https://www.messenger.com/t/100023046368229/"
+    },
+
+    {
+        "icon":"fa-solid fa-comments",
+        "name":"Zalo",
+        "href":"https://zalo.me/0333409892"
+    },
+
+    {
+        "icon":"fa-solid fa-envelope",
+        "name":"Email",
+        "href":"https://mail.google.com/mail/u/0/?hl=en-GB#inbox?compose=CllgCJfnbRXvTMXLSmqtZwsmhqNvzLVqjwMgTLhVpLvLkRBRdTttkNScGcKXCsLvDJsJqlCxvzL"
+    },
+
+    {
+        "icon":"fa-solid fa-phone",
+        "name":"Gọi ngay",
+        "href":"tel:0333409892"
+    }
+]

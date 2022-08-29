@@ -1,0 +1,133 @@
+[   {
+        "id": 11,
+        "cls":"box",
+        "img_products":"./images/rubik.png",
+        "name": "Bán cây cảnh",
+        "href":"https://yeager1711.github.io/rubik/",
+        "ic_1":"./images/ic-vue.png",
+        "ic_2":"./images/ic-sass.png",
+        "ic_3":"./images/ic-js.png",
+        "ic_4":"./images/ic-owl.png"
+    },
+    {
+        "id": 10,
+        "cls":"box",
+        "img_products":"./images/webfresh.png",
+        "name": "Gian Hàng Xanh",
+        "href":"https://yeager1711.github.io/Organico/",
+        "ic_1":"./images/ic-vue.png",
+        "ic_2":"./images/ic-sass.png",
+        "ic_3":"./images/ic-js.png",
+        "ic_4":"./images/ic-owl.png"
+    },
+
+    {
+        "id": 9,
+        "cls":"box",
+        "img_products":"./images/foodweb3.png",
+        "name": "Bán đồ ăn nhanh (mẫu 2)",
+        "href":"https://yeager1711.github.io/Website-Food/",
+        "ic_1":"./images/ic-html.png",
+        "ic_2":"./images/ic-css.png",
+        "ic_3":"./images/ic-js.png",
+        "ic_4":"./images/ic-sw.png"
+    },
+
+    {
+        "id": 8,
+        "cls":"box",
+        "img_products":"./images/travelweb2.png",
+        "name": "Du Lịch (mẫu 2)",
+        "href":"https://huynhnam1711.github.io/travel-web2/",
+        "ic_1":"./images/ic-html.png",
+        "ic_2":"./images/ic-css.png",
+        "ic_3":"./images/ic-js.png",
+        "ic_4":"./images/ic-sw.png"
+    },
+
+    {
+        "id": 7,
+        "cls":"box",
+        "img_products":"./images/apple.png",
+        "name": "cp Apple",
+        "href":"https://huynhnam1711.github.io/cp-Apple/",
+        "ic_1":"./images/ic-html.png",
+        "ic_2":"./images/ic-css.png",
+        "ic_3":"./images/ic-js.png",
+        "ic_4":"./images/ic-sw.png"
+    },
+
+    {
+        "id": 6,
+        "cls":"box",
+        "img_products":"./images/chrismasweb.png",
+        "name": "Giáng Sinh",
+        "href":"https://huynhnam1711.github.io/Chrismas-Website/",
+        "ic_1":"./images/ic-html.png",
+        "ic_2":"./images/ic-css.png",
+        "ic_3":"./images/ic-js.png",
+        "ic_4":"./images/ic-sw.png"
+    },
+
+    {
+        "id": 5,
+        "cls":"box",
+        "img_products":"./images/fitnessweb.png",
+        "name": "GYM-Fitness",
+        "href":"https://huynhnam1711.github.io/Body-Fitness-Website/",
+        "ic_1":"./images/ic-html.png",
+        "ic_2":"./images/ic-css.png",
+        "ic_3":"./images/ic-js.png",
+        "ic_4":"./images/ic-sw.png"
+    },
+
+    
+
+    {
+        "id": 4,
+        "cls":"box",
+        "img_products":"./images/shose.png",
+        "name": "Bán Giày",
+        "href":"https://huynhnam1711.github.io/YeeNike/",
+        "ic_1":"./images/ic-html.png",
+        "ic_2":"./images/ic-css.png",
+        "ic_3":"./images/ic-js.png",
+        "ic_4":"./images/ic-sw.png"
+    },
+
+    {
+        "id": 3,
+        "cls":"box",
+        "img_products":"./images/travelweb.png",
+        "name": "Du lịch",
+        "href":"https://huynhnam1711.github.io/Travel-website/",
+        "ic_1":"./images/ic-html.png",
+        "ic_2":"./images/ic-css.png",
+        "ic_3":"./images/ic-js.png",
+        "ic_4":"./images/ic-sw.png"
+    },
+
+    {
+        "id": 2,
+        "cls":"box",
+        "img_products":"./images/SEO-seetool.png",
+        "name": "SEO - see_tool",
+        "href":"https://huynhnam1711.github.io/See-tool/",
+        "ic_1":"./images/ic-html.png",
+        "ic_2":"./images/ic-css.png",
+        "ic_3":"./images/ic-js.png",
+        "ic_4":"NULL"
+    },
+
+    {
+        "id": 1,
+        "cls":"box",
+        "img_products":"./images/foodweb.png",
+        "name": "Bán đồ ăn nhanh",
+        "href":"https://huynhnam1711.github.io/food-web/",
+        "ic_1":"./images/ic-html.png",
+        "ic_2":"./images/ic-css.png",
+        "ic_3":"./images/ic-js.png",
+        "ic_4":"./images/ic-sw.png"
+    }
+]
